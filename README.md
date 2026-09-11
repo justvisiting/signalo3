@@ -1,6 +1,6 @@
 # signalo3
 
-Marketing site for **Matrion** — AI consulting, products and Forward Deployed Engineers.
+Marketing site for **Signalo3** — AI consulting, products and Forward Deployed Engineers.
 
 Static single-page site, no build step. `index.html` is the whole site.
 
